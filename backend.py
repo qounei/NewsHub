@@ -5,7 +5,7 @@ import csv
 app = Flask(__name__)
 
 # API Key
-GNEWS_API_KEY = "52a43616d12b49030dde92d73c5b9be5"
+GNEWS_API_KEY = "INSERT YOUR API KEY HERE"
 
 
 # Get the allowed countries from the csv
